@@ -1,0 +1,14 @@
+name: Jed theme
+type: theme
+description: 'Jed IDE site test theme.'
+package: Custom
+core: 8.x
+
+libraries:
+  - jed_theme/global
+
+regions:
+  header: Header
+  content: Content
+  sidebar_first: 'Sidebar first'
+  footer: Footer
